@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=angular,bootstrap,codeigniter,css,express,figma,flutter,git,html,illustrator,javascript,linux,mariadb,mysql,nginx,nodejs,php,postgresql,postman,pug,python,react,sass,tailwind,typescript&theme=dark&perline=7&titles=true"
+      src="https://go-skill-icons.vercel.app/api/icons?i=angular,bootstrap,codeigniter,css,express,figma,flutter,git,html,illustrator,javascript,linux,mariadb,mysql,nginx,nodejs,php,postgresql,postman,pug,python,react,sass,tailwind,typescript,n8n&theme=dark&perline=7&titles=true"
     />
   </a>
 </p>
