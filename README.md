@@ -8,12 +8,10 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim"
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim](https://go-skill-icons.vercel.app/api/icons?i=angular,bootstrap,codeigniter,css,express,figma,flutter,git,html,illustrator,javascript,linux,mariadb,mysql,nginx,nodejs,php,postgresql,postman,pug,python,react,sass,tailwind,typescript,flutter&theme=dark&perline=5&titles=true"
     />
   </a>
 </p>
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=angular,bootstrap,codeigniter,css,express,figma,flutter,git,html,illustrator,javascript,linux,mariadb,mysql,nginx,nodejs,php,postgresql,postman,pug,python,react,sass,tailwind,typescript,flutter&theme=dark&perline=5&titles=true)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=monugupta122&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
