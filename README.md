@@ -6,9 +6,9 @@
 
 # Languages and Tools:
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
+  <a href="#">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim](https://go-skill-icons.vercel.app/api/icons?i=angular,bootstrap,codeigniter,css,express,figma,flutter,git,html,illustrator,javascript,linux,mariadb,mysql,nginx,nodejs,php,postgresql,postman,pug,python,react,sass,tailwind,typescript,flutter&theme=dark&perline=5&titles=true"
+      src="https://go-skill-icons.vercel.app/api/icons?i=angular,bootstrap,codeigniter,css,express,figma,flutter,git,html,illustrator,javascript,linux,mariadb,mysql,nginx,nodejs,php,postgresql,postman,pug,python,react,sass,tailwind,typescript,flutter&theme=dark&perline=5&titles=true"
     />
   </a>
 </p>
